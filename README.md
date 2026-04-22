@@ -1,4 +1,4 @@
-# 📊 Dishly Delivery App: Data Analytics & Strategic Forecasting
+#  Dishly Delivery App: Data Analytics & Strategic Forecasting
 
 ## 📝 Project Overview
 **Dishly Delivery App Analytics & Strategic Forecasting** : This project is a comprehensive **Data Analytics & Business Intelligence** solution designed to visualize and analyze the sales and delivery performance of the **Dishly App** using Key Performance Indicators (KPIs). The dashboard provides deep insights into financial growth, delivery efficiency, and customer behavior across different cities to support data-driven decision-making. 
